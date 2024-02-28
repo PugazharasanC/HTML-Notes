@@ -40,18 +40,18 @@ Explore fundamental HTML tags that shape the structure of web content.
 
 Delve into the components that make up basic HTML tags.
 
-      - [1. `<h1> to <h6>` - Headings](HTML%20Basics.md#1-h1-to-h6---headings)
-      - [2. `<p>` - Paragraph](HTML%20Basics.md#2-p---paragraph)
-      - [3. `<strong>` - Strong Emphasis](HTML%20Basics.md#3-strong---strong-emphasis)
-      - [4. `<em>` - Emphasis](HTML%20Basics.md#4-em---emphasis)
-      - [5. `<ul>` and `<ol>` - Lists](HTML%20Basics.md#5-ul-and-ol---lists)
-        - [Unordered List Example](HTML%20Basics.md#unordered-list-example)
-        - [Ordered List Example](HTML%20Basics.md#ordered-list-example)
-      - [6. `<li>` - List Item](HTML%20Basics.md#6-li---list-item)
-      - [7. `<a>` - Anchor (Link)](HTML%20Basics.md#7-a---anchor-link)
-      - [8. `<img>` - Image](HTML%20Basics.md#8-img---image)
-      - [9. `<br>` - Line Break](HTML%20Basics.md#9-br---line-break)
-      - [10. `<hr>` - Horizontal Rule](HTML%20Basics.md#10-hr---horizontal-rule)
+- [1. `<h1> to <h6>` - Headings](HTML%20Basics.md#1-h1-to-h6---headings)
+- [2. `<p>` - Paragraph](HTML%20Basics.md#2-p---paragraph)
+- [3. `<strong>` - Strong Emphasis](HTML%20Basics.md#3-strong---strong-emphasis)
+- [4. `<em>` - Emphasis](HTML%20Basics.md#4-em---emphasis)
+- [5. `<ul>` and `<ol>` - Lists](HTML%20Basics.md#5-ul-and-ol---lists)
+  - [Unordered List Example](HTML%20Basics.md#unordered-list-example)
+  - [Ordered List Example](HTML%20Basics.md#ordered-list-example)
+- [6. `<li>` - List Item](HTML%20Basics.md#6-li---list-item)
+- [7. `<a>` - Anchor (Link)](HTML%20Basics.md#7-a---anchor-link)
+- [8. `<img>` - Image](HTML%20Basics.md#8-img---image)
+- [9. `<br>` - Line Break](HTML%20Basics.md#9-br---line-break)
+- [10. `<hr>` - Horizontal Rule](HTML%20Basics.md#10-hr---horizontal-rule)
 
 ### 🌈 [Tag Combinations and Nesting](HTML%20Basics.md#-tag-combinations-and-nesting)
 
