@@ -684,7 +684,8 @@ Welcome to the frontier of user interaction! HTML input elements are the portals
 
 _In the browser:_
 
-> <label for="name">Name:</label> > <input type="text" id="name" name="name" placeholder="Your name">
+> <label for="name">Name:</label>
+> <input type="text" id="name" name="name" placeholder="Your name">
 
 This is a basic text input that allows users to enter text. The `placeholder` attribute provides a hint inside the input field.
 
